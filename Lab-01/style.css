@@ -1,0 +1,14 @@
+.information{
+    background-color: azure;
+    text-align: center;
+
+}
+body{
+    background-color: hsl(160, 100%, 75%);
+}
+h1{
+    color: black;
+}
+p{
+    color: rgb(30, 29, 29);
+}
