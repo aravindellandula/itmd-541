@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+}
+
+#tip_cal {
+    background-color: #e0f7fa;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    width: 300px;
+}
+
+#info {
+    color: #00796b;
+    text-align: center;
+    font-size: 0.9em;
+    margin-bottom: 10px;
+}
+
+#headline {
+    text-align: center;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    color: #004d40;
+}
+
+.form-label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+    color: #00695c;
+}
+
+.form-input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #b2dfdb;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+#tip {
+    width: 100%;
+    margin-top: 5px;
+}
+
+#tip-percentage {
+    display: block;
+    text-align: center;
+    font-size: 1em;
+    color: #00796b;
+    margin-bottom: 10px;
+}
